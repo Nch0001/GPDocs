@@ -10,8 +10,7 @@ Documentation for developers is currently very sparse. Please feel free to help 
 
 ## Table of Contents
 
-[Adding GriefPrevention as a dependency
-](https://github.com/Nch0001/GPDocs/blob/main/api.md#adding-griefprevention-as-a-dependency)
+[Adding GriefPrevention as a dependency](https://nch0001.github.io/GPDocs/#Adding-GriefPrevention-as-a-dependency)
 
 ---
 
